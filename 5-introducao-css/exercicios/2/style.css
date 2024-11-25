@@ -1,0 +1,22 @@
+body{
+    background-color: khaki;
+}
+
+#p1{
+    background-color: mediumaquamarine;
+   margin-right: 200px;
+   padding: 25px;
+    
+}
+
+#p2{
+    background-color: darkgray;
+    margin-left: 200px;
+    padding: 25px;
+}
+
+#p3{
+    background-color: indianred;
+    margin-right: 200px;
+    padding: 25px;
+}
